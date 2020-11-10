@@ -8,7 +8,7 @@ __pycache__/
 
 
 # Django stuff:
-local_settings.py
+local_setting.py
 *.sqlite3
 
 # database migrations
